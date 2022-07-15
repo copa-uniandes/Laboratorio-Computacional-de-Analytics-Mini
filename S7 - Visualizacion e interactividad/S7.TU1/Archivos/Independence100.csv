@@ -1,0 +1,101 @@
+"Rank","Restaurant","Sales","Average Check","City","State","Meals Served"
+"1","Carmine's (Times Square)",39080335,40,"New York","N.Y.",469803
+"2","The Boathouse Orlando",35218364,43,"Orlando ","Fla.",820819
+"3","Old Ebbitt Grill",29104017,33,"Washington","D.C.",892830
+"4","LAVO Italian Restaurant & Nightclub",26916180,90,"New York","N.Y.",198500
+"5","Bryant Park Grill & Cafe",26900000,62,"New York","N.Y.",403000
+"6","Gibsons Bar & Steakhouse",25409952,80,"Chicago","Ill.",348567
+"7","Top of the World at the STRAT ",25233543,103,"Las Vegas","Nev.",246054
+"8","Maple & Ash",24837595,99,"Chicago","Ill.",210832
+"9","Balthazar",24547800,87,"New York","N.Y.",519000
+"10","Smith & Wollensky",24501000,107,"New York","N.Y.",257364
+"11","Angus Barn",24268160,75,"Raleigh","N.C.",315000
+"12","Prime 112",23800000,135,"Miami Beach","Fla.",206000
+"13","Joe's Seafood, Prime Steak & Stone Crab",23660000,86,"Washington","D.C.",277850
+"14","Junior's (Times Square)",23640652,23,"New York","N.Y.",914500
+"15","The Hamilton",23138062,33,"Washington","D.C.",700861
+"16","Joe's Seafood, Prime Steak & Stone Crab",22981600,91,"Chicago","Ill.",252500
+"17","Joe's Seafood, Prime Steak & Stone Crab",22859400,81,"Las Vegas","Nev.",286000
+"18","Gibsons Italia",22749232,108,"Chicago","Ill.",252962
+"19","Komodo",22500000,98,"Miami","Fla.",265000
+"20","Buddakan",22395577,67,"New York","N.Y.",221059
+"21","Bazaar Meat by Jose Andres",22181607,119,"Las Vegas","Nev.",190000
+"22","SW Steakhouse",21523650,149,"Las Vegas","Nev.",145700
+"23","St. Elmo Steak House",21422141,99,"Indianapolis","Ind.",192774
+"24","RPM Steak",20853300,102,"Chicago","Ill.",202900
+"25","Mon Ami Gabi",20120210,76,"Las Vegas","Nev.",319200
+"26","Gibsons Bar & Steakhouse",19831818,81,"Oak Brook","Ill.",276444
+"27","Paddlefish",19829500,48,"Orlando ","Fla.",417500
+"28","Taste of Texas",19530159,55,"Houston","Texas",375241
+"29","Parc",19379153,35,"Philadelphia","Pa.",486219
+"30","Bob Chinn's Crab House",18687601,48,"Wheeling","Ill.",625907
+"31","Quality Meats",18678000,115,"New York","N.Y.",165148
+"32","Del Posto",18625033,194,"New York","N.Y.",95000
+"33","Shooters Waterfront",18601433,57,"Ft. Lauderdale","Fla.",409752
+"34","Bottega Louie",18521000,36,"Los Angeles","Calif.",322562
+"35","Le Diplomate",18490719,38,"Washington","D.C.",363609
+"36","Gibsons Bar & Steakhouse",18483056,79,"Rosemont","Ill.",252419
+"37","Lavo Italian Restaurant & Lounge",18386262,97,"Las Vegas","Nev.",115500
+"38","Prime Steakhouse",18248030,173,"Las Vegas","Nev.",113600
+"39","Makoto",18216906,54,"Bal Harbour","Fla.",256830
+"40","Original Joe's Westlake",18159612,35,"Daly City","Calif.",473492
+"41","Shaw's Crab House",17965500,72,"Chicago","Ill.",270000
+"42","Founding Farmers (Washington, D.C.)",17910045,33,"Washington","D.C.",648096
+"43","Junior's (49th Street)",17834390,22,"New York","N.Y.",798000
+"44","Chops Lobster Bar",17816450,106,"Atlanta","Ga.",168000
+"45","Chicago Cut Steakhouse",17743720,95,"Chicago","Ill.",211000
+"46","Swift & Sons",17637400,119,"Chicago","Ill.",195343
+"47","Harris Ranch Inn & Restaurant",17599468,29,"Coalinga","Calif.",611928
+"48","Sparks Steak House",17519030,100,"New York","N.Y.",198200
+"49","Quality Italian",17519000,95,"New York","N.Y.",177337
+"50","Frankenmuth Bavarian Inn",17388751,19,"Frankenmuth","Mich.",899284
+"51","Tavern on the Green",17212800,76,"New York","N.Y.",250000
+"52","Abe & Louie's",17063477,106,"Boston","Mass.",160762
+"53","Rusty Pelican",16981741,98,"Miami","Fla.",182000
+"54","Beauty & Essex (New York City)",16364050,90,"New York","N.Y.",187970
+"55","Grand Central Oyster Bar",16304883,62,"New York","N.Y.",296000
+"56","Delmonico Steakhouse",16154000,103,"Las Vegas","Nev.",133000
+"57","Portland City Grill",16111510,83,"Portland","Ore.",268062
+"58","Zehnder's of Frankenmuth",16063684,17,"Frankenmuth","Mich.",959026
+"59","The Rustic Inn",15700000,43,"Ft. Lauderdale","Fla.",371000
+"60","Harry Caray's Italian Steakhouse",15680000,59,"Chicago","Ill.",287900
+"61","Keens Steakhouse",15629700,97,"New York","N.Y.",168301
+"62","The Lobster House",15450000,43,"Cape May","N.J.",320000
+"63","China Live",15106280,54,"San Francisco","Calif.",3e+05
+"64","Prime & Provisions",15100000,130,"Chicago","Ill.",116154
+"65","Carmine's (Las Vegas)",15067804,45,"Las Vegas","Nev.",176221
+"66","Swan",1.5e+07,78,"Miami","Fla.",225000
+"67","15th Street Fisheries",14978103,69,"Fort Lauderdale","Fla. ",356000
+"68","Atlanta Fish Market",14972300,57,"Atlanta","Ga.",274000
+"69","Acme Feed & Seed",14897125,22,"Nashville","Tenn.",527130
+"70","Hugo's Frog Bar & Fish House",14790123,80,"Chicago","Ill.",190616
+"71","Cliff House",14465847,40,"San Francisco","Calif.",199901
+"72","Castaway Burbank",14407413,60,"Burbank","Calif.",180320
+"73","Matt's El Rancho",14381904,29,"Austin","Texas",495927
+"74","Timberline Steaks and Grille",14362103,37,"Denver","Colo.",553378
+"75","Beauty & Essex (Las Vegas)",14130500,99,"Las Vegas","Nev.",150000
+"76","Carmine's (Atlantic City)",13987843,39,"Atlantic City","N.J.",129630
+"77","Junior's (Brooklyn)",13908292,23,"New York","N.Y.",359000
+"78","Quartino Ristorante & Wine Bar",13854856,32,"Chicago","Ill.",394582
+"79","Paradise Cove Beach Cafe",13654113,39,"Malibu","Calif.",312050
+"80","BOA Steakhouse ",13552485,110,"West Hollywood","Calif.",123204
+"81","Original Joe's",13177468,45,"San Francisco","Calif.",267533
+"82","Founding Farmers (McLean, Va.)",13102742,38,"McLean","Va.",390104
+"83","Siena Tavern",13100000,55,"Chicago","Ill.",238182
+"84","Girl & the Goat",12894700,82,"Chicago","Ill.",183000
+"85","Tavern on Rush",12884000,72,"Chicago","Ill.",178944
+"86","Harry & Izzy's Circle Centre",12809921,66,"Indianapolis","Ind.",174166
+"87","Scoma's",12713394,65,"San Francisco","Calif.",292000
+"88","Farmers Fishers Bakers",12572109,37,"Washington","D.C.",371025
+"89","Southern Steak & Oyster",12566618,39,"Nashville","Tenn.",337920
+"90","Big Texan Steak Ranch",12505200,24,"Amarillo","Texas",478000
+"91","Park Avenue Summer (Autumn, Winter, Spring)",12498000,84,"New York","N.Y.",164531
+"92","Farmers & Distillers",12278839,36,"Washington","D.C.",375309
+"93","Virgil's Real Barbecue",12245998,31,"New York","N.Y.",251800
+"94","Carmine's (Washington, D.C.)",12228168,39,"Washington","D.C.",148135
+"95","Franciscan Crab Restaurant",12218147,59,"San Francisco","Calif.",240000
+"96","George's at the Cove",12194000,80,"La Jolla","Calif.",250000
+"97","Le Coucou",12187523,95,"New York","N.Y.",87070
+"98","Mi Vida",12032014,38,"Washington","D.C.",226226
+"99","Upland",11965564,52,"New York","N.Y.",171825
+"100","Virgil's Real Barbecue",11391678,27,"Las Vegas","Nev.",208276

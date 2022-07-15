@@ -1,0 +1,11 @@
+Pos.	Selección	Pts.	PJ	G	E	P	GF	GC	Dif.
+1.	Brasil	41	18	12	5	1	41	11	30
+2.	Uruguay	31	18	9	4	5	32	20	12
+3.	Argentina	28	18	7	7	4	19	16	3
+4.	Colombia	27	18	7	6	5	21	19	2
+5.	Perú	26	18	7	5	6	27	26	1
+6.	Chile	26	18	8	2	8	26	27	−1
+7.	Paraguay	24	18	7	3	8	19	25	−6
+8.	Ecuador	20	18	6	2	10	26	29	−3
+9.	Bolivia	14	18	4	2	12	16	38	−22
+10.	Venezuela	12	18	2	6	10	19	35	−16
